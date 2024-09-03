@@ -12,11 +12,11 @@ Search tasks by keyword
 Dark mode toggle
 ## Getting Started
 # Installation
-Clone the repository: git clone https://github.com/your-username/your-repo-name.git
+Clone the repository: git clone https://github.com/vishkharat/todo_App/tree/main
 Install dependencies: npm install or yarn install
 Start the development server: npm run dev or yarn dev
 ## Usage
-Open the app in your web browser: http://localhost:3000
+Open the app in your web browser: http://localhost:5173
 Create a new task by filling out the form and clicking "Add Task"
 Edit an existing task by clicking the "Edit" button
 Delete a task by clicking the "Delete" button
